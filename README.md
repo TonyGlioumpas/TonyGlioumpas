@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @TonyGlioumpas
+- <span class="iconify" data-icon="ion:library-outline"></span>
 - 👀 I’m interested in Robotics and Computer Vision.
 - 🌱 I’m currently studying for an Advanced Master's degree in Artificial Intelligence in KU Leuven, Belgium.
 - 💞️ I’m looking to collaborate on Computer Vision projects.
