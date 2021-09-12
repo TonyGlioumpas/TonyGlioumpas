@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @TonyGlioumpas
-- <i class="md-icon-book"></i>
-- 👀 I’m interested in Robotics and Computer Vision.
-- 🌱 I’m currently studying for an Advanced Master's degree in Artificial Intelligence in KU Leuven, Belgium.
-- 💞️ I’m looking to collaborate on Computer Vision projects.
+- 📚 Studied Electrical and Computer Engineering for 5 years at the Democritus University of Thrace, Greece.
+- ⚙️ Worked as Engineering consultant in Belgium for two years.
+- 👀 Academic interests: Robotics and Computer Vision.
+- 🌱 Currently studying for an Advanced Master's degree in Artificial Intelligence in KU Leuven, Belgium.
+- 💞️ Looking to collaborate on Computer Vision projects.
 - 📫 How to reach me? Simply send me an email :) glioumpas.a@gmail.com
 
 <!---
