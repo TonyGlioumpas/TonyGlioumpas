@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @TonyGlioumpas
-- 📚 Studied Electrical and Computer Engineering for 5 years at the Democritus University of Thrace, Greece.
-[//]: <> (- ⚙️ Worked as Engineering consultant in Belgium for two years.)
+- 📚 Studied Electrical and Computer Engineering for 5 years at the Democritus University of Thrace, Greece. <!--- ⚙️ Worked as Engineering consultant in Belgium for two years. -->
 - 👀 Academic interests: Robotics, Computer Vision, Data Science.
-- 🌱 Currently studying for an Advanced Master's degree in Artificial Intelligence in KU Leuven, Belgium.
-[//]: <> (- 💞️ Looking to collaborate on Computer Vision projects.)
+- 🌱 Currently studying for an Advanced Master's degree in Artificial Intelligence in KU Leuven, Belgium. <!--- 💞️ Looking to collaborate on Computer Vision projects. -->
 - 📫 How to reach me? Simply send me an email :) glioumpas.a@gmail.com
 
 <!---
