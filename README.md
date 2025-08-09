@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @TonyGlioumpas
 - 📚 Studied Electrical and Computer Engineering in Democritus University of Thrace, Greece and Artificial Intelligence in KU Leuven, Belgium.
 - ⚙️ Working as Robotics Software Engineer.
 - 👀 Academic interests: Robotics, Computer Vision, Data Science. <!--- 💞️ Looking to collaborate on Computer Vision projects. -->
